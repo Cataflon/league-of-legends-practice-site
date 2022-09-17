@@ -33,6 +33,11 @@ button {
   font-weight: 600;
   font-size: 14px;
   color: aliceblue;
+  cursor: pointer;
+}
+button:hover {
+  transition-duration: 0.5s;
+  background-color: rgb(110, 129, 151);
 }
 .logo1 {
   height: 50px;
